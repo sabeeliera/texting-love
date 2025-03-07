@@ -1,0 +1,81 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "happy anniversary, my love! a year of you driving me insane",
+                "i dont even know where to begin",
+                "words will never be enough for what we have",
+                "we ve been through so much",
+                "things that could have broken us",
+                "things that did break us for a while",
+                "but we never let go",
+                "even when it hurt",
+                "even when we didnt understand each other",
+                "even when the world felt too heavy",
+                "we held on",
+                "youve seen me at my worst, at my weakest",
+                "yet, you stayed. you chose me. you always do",
+                "do you know how much that means to me?",
+                "how much YOU mean to me?",
+                "lets go back to our first date…",
+                "9th march 2024",
+                "lemme show you the fav picture i clicked",
+                "<img src='img/firstdate.jpeg'>",
+                "the way my face has the biggest smile at the background, proves everything",
+                "trying to act normal but failing miserably",
+                "the way my heart was racing",
+                "i still remember how nervous yet excited i was",
+                "how every little moment felt like a dream",
+                "the way you looked at me",
+                "the way we laughed",
+                "the way time seemed to slip away too fast",
+                "if i could, i would go back",
+                "and relive it a million times",
+                "just to feel that first spark all over again",
+                "but the best part?",
+                "every day with you still feels just as special",
+                "now lets see the most precious day for me!! your birthday",
+                "cause our first kiss!!!!",
+                "and the first time you insisted to take selfie",
+                "<img src='img/firstkiss.jpeg'>",
+                "ahh look at my hot boyfie",
+                "the way my heart pounded so loudly i thought you'd hear it",
+                "every day spent with you, makes me miss you even more",
+                "<img src='img/mybirth.jpeg'>",
+                "i love this picture sm",
+                "thank youu for making the most memorable birthday",
+                "lets see our first spent valentines",
+                "<img src='img/valentines.jpeg'>",
+                "damn i look sooo pretty here.",
+                "promise me youll look at me like this whole life -,-",
+                "soo many memories we ve created in a year",
+                "maybe this year you will finally learn how to read my mind",
+                "now promise me you ll always choose me",
+                "even on the days i m difficult to love",
+                "promise me youll never give up on us",
+                "even on the days when it feels easier to walk away",
+                "promise me you wont let anyone come between what we have",
+                "promise me that in every lifetime, youll find me and love me again"
+
+            ]
+        ],
+        "responses": [{
+            "content": "i promise!!!",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "yayyy, im so happy",
+                "you will always be my first love",
+                "all the promises we have made to us",
+                "we will fulfill them one by one",
+                "i love you!",
+                "may Allah bless our bonding"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
